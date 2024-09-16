@@ -1,0 +1,11 @@
+#Add active profile configuration here
+#Add the name of the project
+
+
+spring:
+  profiles:
+    active: dev
+  application:
+    name: finance-project
+
+
